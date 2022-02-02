@@ -1,0 +1,29 @@
+body {
+    display: grid;
+    width: 100%;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.left img {
+    position: fixed;
+    width: 25%;
+}
+
+.center {
+    width: 70%;
+}
+
+.center h2 {
+    text-align: center;
+    background-color: gray;
+	
+}
+ h2{
+	position: sticky;
+	top: 25px;
+}
+
+.right img {
+    position: fixed;
+    width: 25%;
+}

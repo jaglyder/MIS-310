@@ -1,0 +1,44 @@
+img {
+    float: left;
+    padding: 2px;
+}
+
+.c > img {
+    margin-left: -290px;
+    margin-top: 200px;
+}
+
+.e > img {
+    margin-top: 392px;
+    margin-left: -1163px;
+}
+
+.f > img {
+    margin-top: 392px;
+    margin-left: -870px;
+}
+
+.g > img {
+    margin-top: 392px;
+    margin-left: -578px;
+}
+
+.h > img {
+    margin-top: 392px;
+    margin-left: -288px;
+}
+
+.i > img {
+    margin-top: 786px;
+    margin-left: -1165px;
+}
+
+.j > img {
+    margin-top: -200px;
+    margin-left: 291px;
+}
+
+.k > img {
+    margin-top: 0px;
+    margin-left: 0px;
+}

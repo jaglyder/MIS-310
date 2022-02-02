@@ -1,0 +1,13 @@
+/*adding rules to assignment 2 */
+body {
+  background-image: url(../images/uncwclock.jpg );
+}
+
+p { color: #FFD600;
+	text-align: center; }
+
+a { color: blue; }
+a:visited { color: blue; }
+
+ol {list-style-type: upper-roman; }
+ul {list-style-type: square; }
